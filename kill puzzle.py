@@ -10,11 +10,18 @@ while True:
 			s=((n-p)*2)+1
 			if(s<=n):
 				if(s>=n//2):
-					if(s==3):
+					if(3<s<21):
+						print (f"The {s}th person is servived")
+					elif(s%10 == 3):
 						print (f"The {s}rd person is servived")
+					elif(s%10 == 2):
+						print (f"The {s}nd person is servived")
+					elif(s%10 == 1):
+						print (f"The {s}st person is servived")
 					else:
 						print (f"The {s}th person is servived")
 					break
 		else :
 			print ("no value")
 			break
+			
