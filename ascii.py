@@ -1,9 +1,4 @@
-'''age = int(input("Enter your age :- "))
-if (age>=18):
-	print("you can Vote \n Thank you")
-else:
-		print("You can not vote \n Bye Bye")'''
-		
+
 n=11
 ascii=65
 for i in range (n):
