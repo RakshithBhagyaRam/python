@@ -1,4 +1,3 @@
-
 n=11
 ascii=65
 for i in range (n):
@@ -7,4 +6,4 @@ for i in range (n):
      	print(chr(ascii),end=" ")
      	ascii+=1
      print()
-print(ascii)
+print("\n",ascii)
