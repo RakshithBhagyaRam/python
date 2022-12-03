@@ -2,3 +2,6 @@
 
 print(" abc ") #output :- abc
 print(' 123 ') #output :- 123
+
+
+print('Hello, world!')  # This program prints Hello, world! 
