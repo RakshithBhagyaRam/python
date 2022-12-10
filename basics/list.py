@@ -2,5 +2,5 @@
 
 empty_list=[] #declaring a List
 list_for_numbers=[1,2,3,4]   # for numeric list, elements should be without quotes
-List3=['abc','xyz','pqr']   # for string list, elements should be with 'single' or "double" quotes
+List_for_strings=['abc','xyz','pqr']   # for string list, elements should be with 'single' or "double" quotes
 print(List2) #printing list
