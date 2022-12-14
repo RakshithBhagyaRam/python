@@ -1,10 +1,10 @@
-if __name__ == '__main__':
-  vowel = 0
-  cons=0
-
-  for i in range(ord(a),ord(z)+1):
-    if i == 'a'or'e'or'i'or'o'or'u':
-      vowel+=1
-    else :
-      cons+=1
-  print(f'{vowel} vowels and {cons} consonants' )
+import string
+c=0
+v=0
+for letter in string.ascii_lowercase:
+  print(letter)
+  if i == 'a'or'e'or'i'or'o'or'u':
+    v+=1
+  else :
+    c+=1
+print(f'{vowel} vowels and {cons} consonants' )
