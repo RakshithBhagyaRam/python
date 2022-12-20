@@ -13,5 +13,5 @@ while n!=0:
     num = n%10
     reversed_number = reversed_number * 10 + num 
     n=n//10
-    print(reversed_number, end='')
+print(reversed_number, end='')
 
