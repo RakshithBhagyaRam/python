@@ -4,7 +4,7 @@ def unpack(p,q,r,s):
 a=[2,3,4,5]
 unpack(*a)
 n=0
-a=[""]
+a=[" "]
 n=int(input('enter number of numbers '))
 print("enter numbers ")
 for i in range(0,n):
