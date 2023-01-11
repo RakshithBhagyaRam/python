@@ -13,4 +13,4 @@ name = "Raju" #name is a variable that consist of words or sentenses with in "do
 age = 25  #age is a variable that consist of integer (numerical) value 
 
 salary = 40000.00 # salary is a variable that consists of floating point value
-#floating point means number forward by a decimal values
+#floating point means number forwarded by a decimal values
