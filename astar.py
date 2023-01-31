@@ -11,7 +11,7 @@ class Graph:
         'C': 1,
         'D': 1
         }
-
+   
         return H[n]
 
     def a_star_algorithm(self, start, stop):
